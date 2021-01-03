@@ -139,3 +139,8 @@ Localhost server don't need to install all of my "XAMPP" recommendations
     <td> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="Wamp" width="100" height="100"></td>
   </tr>
 </table> 
+
+# For Linux
+This method may be difficult for basic people, install Apache, MySQL and phpmyadmin separately :
+
+<i>Coming Soon</i>
