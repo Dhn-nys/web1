@@ -132,11 +132,27 @@ Localhost server don't need to install all of my "XAMPP" recommendations
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://www.vim.org/download.php">Wamp</a></td>
+    <td><a href="https://www.wampserver.com/en/">Wamp</a></td>
     <td>Yes</td>
     <td>No</td>
     <td>No</td>
     <td> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="Wamp" width="100" height="100"></td>
+  </tr>
+ <tr>
+    <td>5</td>
+    <td><a href="https://www.easyphp.org/download.php">EasyPHP</a></td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>No</td>
+    <td> <img src="https://www.easyphp.org/libraries/img/logo_easyphp_100x100.png" alt="EasyPHP" width="100" height="100"></td>
+  </tr>
+ <tr>
+    <td>6</td>
+    <td><a href="https://www.getwnmp.org">USB Webserver</a></td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td> <img src="https://topbestalternative.com/wp-content/uploads/2020/02/usb-webserver-logo.jpg" alt="USB Webserver" width="100" height="100"></td>
   </tr>
 </table> 
 
