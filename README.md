@@ -1,11 +1,46 @@
 # Web Programming [726]
 Website basic, language HTML, CSS, PHP, and Javascript
 
-## Tools
-1. [xampp](https://www.apachefriends.org/download.html) or [Laragon](https://laragon.org/download/index.html)
-2. [notepad ++](https://notepad-plus-plus.org/downloads/) or [sublime Text](https://www.sublimetext.com/download)
-3. [Read More..](https://github.com/Dhn-nys/web1/tree/main/1.%20%E4%BB%BB%E5%8A%A1%E7%AC%AC%E4%B8%80)
+## Tools and Require
+[Read 任务第一](https://github.com/Dhn-nys/web1/tree/main/1.%20%E4%BB%BB%E5%8A%A1%E7%AC%AC%E4%B8%80)
 
+## See Example
+<details>
+  <summary>任务第一</summary>
+  <p>
+  <ul>
+    <li>Tools, Require, and alternative</li>
+  </ul>
+  </p>
+</details>
+
+<details>
+  <summary>任务第二</summary>
+  <p>
+  <ul>
+    <li>Examples of using HTML scripts</li>
+    <li>Example of a script using HTML tags</li>
+    <li>Example of Making Tables Using HTML</li>
+    <li>Use of Cellpadding & Cellspacing</li>
+    <li>Use of Colspan and Rowspan</li>
+    <li>Task</li>
+  </ul>
+  </p>
+</details>
+
+<details>
+  <summary>任务第三</summary>
+  <p>
+  <ul>
+    <li>PHP script example</li>
+    <li>Variable</li>
+    <li>Data Type</li>
+    <li>Example of a constant and comment</li>
+    <li>Task</li>
+  </ul>
+  </p>
+</details>
+    
 ## Thanks
 - Mrs. lecturer (I forgot his name) 😹 
 - Yusuf (assistant professor)
