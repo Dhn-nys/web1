@@ -40,7 +40,20 @@ Website basic, language HTML, CSS, PHP, and Javascript
   </ul>
   </p>
 </details>
-    
+
+<details>
+  <summary>任务第四</summary>
+  <p>
+  <ul>
+    <li>Arithmetic Operators</li>
+    <li>Operator Comparison</li>
+    <li>Logical Operators</li>
+    <li>String Operator</li>
+    <li>Task</li>
+  </ul>
+  </p>
+</details>
+
 ## Thanks
 - Mrs. lecturer (I forgot his name) 😹 
 - Yusuf (assistant professor)
