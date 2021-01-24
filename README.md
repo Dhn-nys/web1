@@ -60,8 +60,8 @@ Website basic, language HTML, CSS, PHP, and Javascript
   <ul>
     <li>Example Form</li>
     <li>Metode Get Proses</li>
-    <li><del>Metode Post Proses</del></li>
-    <li><del>Task</del></li>
+    <li>Metode Post Proses</li>
+    <li>Task</li>
   </ul>
   </p>
 </details>
@@ -70,7 +70,9 @@ Website basic, language HTML, CSS, PHP, and Javascript
   <summary>任务第六</summary>
   <p>
   <ul>
-    <li>Unknow</li>
+    <li>Training : Form 2.1(01.1 FormInputMahasiswa.php)</li>
+    <li>Training : Form 2.2 - 1 file(<del>formdatadiri.php</del>)</li>
+    <li>Task</li>
   </ul>
   </p>
 </details>
